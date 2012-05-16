@@ -66,7 +66,7 @@ ro.default_usb_mode=2
 ro.mot.master_clear.shredsd=false
 
 persist.mot.proximity.touch=1
-mot.proximity.delay=450
+mot.proximity.delay=90
 mot.proximity.distance=60
 
 
